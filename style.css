@@ -216,6 +216,10 @@ td {
   color: #3d4858;
 }
 
+.project-card + .project-intro {
+  margin-top: 38px;
+}
+
 .project-card {
   margin-top: 18px;
   overflow: hidden;
